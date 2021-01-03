@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".tgitconfig" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
       <mapping ext="factories" type="spring.factories" />
