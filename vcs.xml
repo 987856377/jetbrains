@@ -34,6 +34,10 @@
           <option name="url" value="http://xzk@222.132.62.2:8082/r/zbzx_tbfw.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://xzk@222.132.62.2:29418/zbzx_ydhl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
