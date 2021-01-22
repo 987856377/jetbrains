@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.git;*.idea;*.iml;*.lck;*.log;log;" />
+    <ignoreFiles list="*.git;*.idea;*.iml;*.lck;*.log;*.zip;log;" />
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
