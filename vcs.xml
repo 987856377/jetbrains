@@ -50,6 +50,10 @@
           <option name="url" value="https://gitee.com/alenfive/rocket-api-platform.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mcg-helper/mcg-helper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
