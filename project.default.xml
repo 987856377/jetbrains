@@ -1,0 +1,194 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="D:\devtools\apache-maven-3.6.3" />
+            <option name="threads" value="4" />
+            <option name="userSettingsFile" value="D:\devtools\apache-maven-3.6.3\conf\settings-bsoft.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PersistentConfig">
+        <option name="initConfig">
+          <map>
+            <entry key="initConfig">
+              <value>
+                <Config>
+                  <option name="comment" value="true" />
+                  <option name="daoPackage" value="generator" />
+                  <option name="daoPostfix" value="Dao" />
+                  <option name="modelPackage" value="generator" />
+                  <option name="name" value="initConfig" />
+                  <option name="overrideJava" value="true" />
+                  <option name="overrideXML" value="true" />
+                  <option name="projectFolder" value="" />
+                  <option name="useLombokPlugin" value="true" />
+                  <option name="useSchemaPrefix" value="true" />
+                  <option name="xmlPackage" value="generator" />
+                </Config>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="omen" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+      <component name="RemoteRepositoriesConfiguration">
+        <remote-repository>
+          <option name="id" value="central" />
+          <option name="name" value="Maven Central repository" />
+          <option name="url" value="https://repo1.maven.org/maven2" />
+        </remote-repository>
+        <remote-repository>
+          <option name="id" value="jboss.community" />
+          <option name="name" value="JBoss Community repository" />
+          <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+        </remote-repository>
+        <remote-repository>
+          <option name="id" value="b02042e9-7ea5-4c5f-8d9d-9ebeb4c87d1a" />
+          <option name="name" value="b02042e9-7ea5-4c5f-8d9d-9ebeb4c87d1a" />
+          <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+        </remote-repository>
+        <remote-repository>
+          <option name="id" value="2fe1568f-b26e-44ee-9beb-317fd889ab8e" />
+          <option name="name" value="2fe1568f-b26e-44ee-9beb-317fd889ab8e" />
+          <option name="url" value="http://maven.net.cn/content/groups/public/" />
+        </remote-repository>
+        <remote-repository>
+          <option name="id" value="aa304ef8-9a6f-4cd2-aac9-eb0287660da0" />
+          <option name="name" value="aa304ef8-9a6f-4cd2-aac9-eb0287660da0" />
+          <option name="url" value="http://mirrors.ibiblio.org/pub/mirrors/maven2/" />
+        </remote-repository>
+        <remote-repository>
+          <option name="id" value="d7ee1291-b868-4887-951d-b12e6434f693" />
+          <option name="name" value="d7ee1291-b868-4887-951d-b12e6434f693" />
+          <option name="url" value="http://repo2.maven.org/maven2/" />
+        </remote-repository>
+        <remote-repository>
+          <option name="id" value="83f870e0-fc54-4bb5-a9d2-d0c40e36ab1c" />
+          <option name="name" value="83f870e0-fc54-4bb5-a9d2-d0c40e36ab1c" />
+          <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
+        </remote-repository>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\omen\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+      </component>
+      <component name="YarnPnpManager">
+        <pnp-files />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ArquillianSettingsConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
