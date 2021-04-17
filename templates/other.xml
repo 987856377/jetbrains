@@ -1,5 +1,5 @@
 <templateSet group="other">
-  <template name="fornts" value="for ( int i = 0; i &lt; 10; i++){&#10;     new Thread(() -&gt; {&#10;                &#10;     },&quot;Thread- &quot; + i + &quot; -Running: &quot;).start();&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="fornts" value="for ( int i = 0; i &lt; 10; i++){&#10;     new Thread(() -&gt; {&#10;         &#10;     },&quot;Thread- &quot; + i + &quot; -Running: &quot;).start();&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -9,7 +9,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="nts" value="new Thread(() -&gt; {&#10;                &#10;},&quot;Thread- local -Running: &quot;).start();" description="" toReformat="false" toShortenFQNames="true">
+  <template name="nts" value="new Thread(() -&gt; {&#10;    &#10;},&quot;Thread- local -Running: &quot;).start();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -24,7 +24,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="forjnts" value="for ( int i = 0; i &lt; 10; i++){&#10;     Thread thread = new Thread(() -&gt; {&#10;                &#10;     },&quot;Thread- &quot; + i + &quot; -Running: &quot;);&#10;     thread.start();&#10;     thread.join();&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="forjnts" value="for ( int i = 0; i &lt; 10; i++){&#10;     Thread thread = new Thread(() -&gt; {&#10;         &#10;     },&quot;Thread- &quot; + i + &quot; -Running: &quot;);&#10;     thread.start();&#10;     thread.join();&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
