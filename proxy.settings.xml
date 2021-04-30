@@ -1,6 +1,7 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="127.0.0.1" />
-    <option name="PROXY_PORT" value="8888" />
+    <option name="PROXY_HOST" value="89.46.223.239" />
+    <option name="PROXY_PORT" value="39772" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
   </component>
 </application>
