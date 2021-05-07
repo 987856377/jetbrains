@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets the contents of an &lt;code&gt;InputStream&lt;code&gt; as a &lt;code&gt;byte[]&lt;code&gt;. &lt;p&gt; This method buffers the input internally, so there is no need to use a &lt;code&gt;BufferedInputStream&lt;code&gt;." />
+      <item value="Copy the contents of the given InputStream into a new byte array. Closes the stream when done. @param in the stream to copy from (may be {@code null} or empty) @return the new byte array that has been copied to (possibly empty) @throws IOException in case of IO errors" />
+      <item value="relative Path" />
+      <item value="relative" />
+      <item value="Relative" />
+      <item value="http://localhost:8025/iENM/" />
       <item value="Toolchain Plugin" />
       <item value="source Compatibility" />
     </histories>
