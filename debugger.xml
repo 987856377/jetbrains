@@ -424,6 +424,9 @@
           <option name="QUALIFIED_NAME" value="java.lang.String" />
           <option name="AppendDefault" value="true" />
           <ChildrenExpression Name="">
+            <TextWithImports text="&#13;test.Test&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+          <ChildrenExpression Name="">
             <TextWithImports text="&#13;&#13;JAVA" type="expression" />
           </ChildrenExpression>
         </Renderer>
