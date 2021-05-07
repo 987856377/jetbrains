@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Convenience class for building a {@link DataSource} with common implementations and properties. If HikariCP, Tomcat, Commons DBCP or Oracle UCP are on the classpath one of them will be selected (in that order with Hikari first). In the interest of a uniform interface, and so that there can be a fallback to an embedded database if one can be detected on the classpath, only a small set of common configuration properties are supported. To inject additional properties into" />
       <item value="Gets the contents of an &lt;code&gt;InputStream&lt;code&gt; as a &lt;code&gt;byte[]&lt;code&gt;. &lt;p&gt; This method buffers the input internally, so there is no need to use a &lt;code&gt;BufferedInputStream&lt;code&gt;." />
       <item value="Copy the contents of the given InputStream into a new byte array. Closes the stream when done. @param in the stream to copy from (may be {@code null} or empty) @return the new byte array that has been copied to (possibly empty) @throws IOException in case of IO errors" />
       <item value="relative Path" />
