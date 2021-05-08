@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.git;*.idea;*.iml;*.lck;*.log;*.tmp;*.zip;log;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="getNationAreaDictionary" type="AUTO_DETECTED" />
       <mapping pattern="LOCK" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
