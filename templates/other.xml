@@ -29,7 +29,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="des" value="/**&#10;  * @Description: $description$  $params$  $return$&#10;  * @Throws: &#10;  * @Author: xuzhenkui&#10;  * @Date: $date$ $time$&#10;  */" description="添加方法注释" toReformat="false" toShortenFQNames="true">
+  <template name="des" value="/**&#10; * @Description: $description$  $params$  $return$&#10; * @Throws: &#10; * @Author: xuzhenkui&#10; * @Date: $date$ $time$&#10; */" description="添加方法注释" toReformat="false" toShortenFQNames="true">
     <variable name="description" expression="" defaultValue=" " alwaysStopAt="false" />
     <variable name="params" expression="groovyScript(&quot;def result=''; def stop=false; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); if (params.size()==1 &amp;&amp; (params[0]==null || params[0]=='null' || params[0]=='')) { stop=true; }; if(!stop) { for(i=0; i &lt; params.size(); i++) {result +=((i==0) ? '\\r\\n' : '') + ((i &lt; params.size() - 1) ? '  * @Param: ' + params[i] + '\\r\\n' : '  * @Param: ' + params[i] + '')}; }; return result;&quot;, methodParameters())" defaultValue=" " alwaysStopAt="false" />
     <variable name="return" expression="groovyScript(&quot;def result=''; def data=\&quot;${_1}\&quot;; def stop=false; if(data==null || data=='null' || data=='' || data=='void' ) { stop=true; }; if(!stop) { result += '\\r\\n' + '  * @Return: ' + data; }; return result;&quot;, methodReturnType())" defaultValue=" " alwaysStopAt="false" />
