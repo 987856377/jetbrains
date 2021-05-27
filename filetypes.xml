@@ -8,6 +8,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".tgitconfig" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
       <mapping ext="factories" type="spring.factories" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
