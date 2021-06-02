@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bootstrap Registry Initializer" />
       <item value="Bootstrap" />
       <item value="Apply any relevant post processing the {@link ApplicationContext}. Subclasses can apply additional processing as required. @param context the application context" />
       <item value="detects" />
@@ -35,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
