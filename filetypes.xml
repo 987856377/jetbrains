@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.git;*.iml;*.lck;*.log;*.tmp;*.zip;" />
+    <ignoreFiles list="*.git;*.iml;*.lck;*.log;*.tmp;*.zip;log;logs;" />
     <extensionMap>
       <mapping pattern="getNationAreaDictionary" type="AUTO_DETECTED" />
       <mapping pattern="LOCK" type="AUTO_DETECTED" />
