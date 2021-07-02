@@ -1,5 +1,8 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="752" />
+    <option name="newTranslationDialogY" value="372" />
     <histories>
       <item value="authmobilelifesigngetget Life Sign Type Item List" />
       <item value="Candidate" />
@@ -41,7 +44,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
