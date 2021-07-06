@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="752" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="variant" />
+      <item value="identifier" />
+      <item value="universally" />
+      <item value="immutable" />
+      <item value="{&quot;refundstate&quot;:&quot;1&quot;,&quot;qezfbz&quot;:&quot;&quot;,&quot;bcfhjbybfy&quot;:0,&quot;bcnrfpfw&quot;:0,&quot;grzhzf&quot;:0,&quot;bcnrsbdbfy&quot;:0,&quot;bnmzdbljbxje&quot;:0,&quot;paidfee&quot;:&quot;11.39&quot;,&quot;ybfdje&quot;:0,&quot;ljtczf&quot;:5740.75,&quot;yltcdjh&quot;:&quot;10821060610010757085&quot;,&quot;ldybxje&quot;:0,&quot;bcnrjzfw&quot;:0,&quot;qttczf&quot;:0,&quot;tsrytcj&quot;:0,&quot;mzbzje&quot;:0,&quot;dbbzje&quot;:0,&quot;brjsrq&quot;:&quot;20210706095013&quot;,&quot;yfbzy&quot;:0,&quot;paystate&quot;:&quot;0&quot;,&quot;jgqldyylbt&quot;:0,&quot;bcbczf&quot;:0,&quot;resulttext&quot;:&quot;调用成功&quot;,&quot;dbjzje&quot;:0,&quot;fyxx_ds&quot;:[{&quot;xj&quot;:0,&quot;sxh&quot;:1,&quot;qezfbz&quot;:&quot;&quot;,&quot;zlje&quot;:0,&quot;zje&quot;:11.39,&quot;sfxmdj&quot;:&quot;1&quot;,&quot;zfje&quot;:0,&quot;zfbl&quot;:0}],&quot;unpayfee&quot;:&quot;0&quot;,&quot;zje&quot;:11.39,&quot;pkryzjzje&quot;:0,&quot;tcfwnfd&quot;:11.39,&quot;bbtnzbxje&quot;:0,&quot;gwybz&quot;:0,&quot;dezf&quot;:0,&quot;bcmlw&quot;:0,&quot;fpryyljgjm&quot;:0,&quot;desybx&quot;:0,&quot;ecbxje&quot;:0,&quot;bnmzmxbljqfx&quot;:184.7,&quot;bnynrzjzfw&quot;:0,&quot;ljmlw&quot;:0,&quot;sxzfje&quot;:0,&quot;bfzf&quot;:0,&quot;errorcode&quot;:&quot;0&quot;,&quot;pkrkbcbxje&quot;:0,&quot;ljmznrtc&quot;:0,&quot;bcsbdblpzf&quot;:0,&quot;bcnrdejzfw&quot;:0,&quot;bczcqzhjqje&quot;:0,&quot;czlz&quot;:0,&quot;bnzjzljbxje&quot;:0,&quot;gjzhxfje&quot;:0,&quot;brfdje&quot;:11.39,&quot;resultcode&quot;:0,&quot;bnljthbxje&quot;:0,&quot;zhye&quot;:570.69,&quot;bnynrsbdbfw&quot;:0,&quot;fpthbxje&quot;:0,&quot;ljgrzf&quot;:727.87,&quot;errortext&quot;:&quot;&quot;,&quot;tjrylb&quot;:&quot;2&quot;,&quot;jmje&quot;:0,&quot;ztdjbzf&quot;:0,&quot;totalfee&quot;:&quot;11.39&quot;,&quot;bngwybzljbxje&quot;:0,&quot;bnptmzljbxje&quot;:451.02,&quot;bczcqzhye&quot;:0,&quot;bcnrtcfw&quot;:0,&quot;fprylb&quot;:&quot;退休职工&quot;,&quot;zdlsh&quot;:&quot;&quot;,&quot;bcqfx&quot;:11.39,&quot;jbbm&quot;:&quot;N0033&quot;,&quot;bnynrdejzfw&quot;:0,&quot;bnynrmztcfw&quot;:922.03,&quot;mzzdyfbcjze&quot;:0,&quot;ljdezf&quot;:0,&quot;fprymzjzje&quot;:0,&quot;ylbzje&quot;:0,&quot;ljzfje&quot;:0,&quot;rqlb&quot;:&quot;A&quot;,&quot;ljbxje&quot;:5740.75,&quot;bnljmzjzje&quot;:0,&quot;bnynrtcfw&quot;:6529.4,&quot;yyfdje&quot;:0,&quot;syjjzf&quot;:0,&quot;gjzhye&quot;:0,&quot;zylsh&quot;:&quot;3102456X*001&quot;,&quot;yljmje&quot;:0,&quot;ljmzed&quot;:0,&quot;sydgrzhzf&quot;:0,&quot;fph&quot;:&quot;&quot;,&quot;bbtnzyyfdje&quot;:0,&quot;zhzf&quot;:0,&quot;ljbczf&quot;:0,&quot;ljqfx&quot;:196.09,&quot;qzjbzhzf&quot;:0,&quot;ljztdjbzf&quot;:0,&quot;tczf&quot;:0,&quot;xj&quot;:11.39,&quot;bnsbdbljbxje&quot;:0}" />
+      <item value="significant" />
       <item value="authmobilelifesigngetget Life Sign Type Item List" />
       <item value="Candidate" />
       <item value="access token" />
@@ -43,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
