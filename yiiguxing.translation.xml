@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="752" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="Locale" />
       <item value="variant" />
       <item value="identifier" />
       <item value="universally" />
@@ -51,6 +52,7 @@
       <map>
         <entry key="CHINESE" value="35" />
         <entry key="ENGLISH" value="33" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
